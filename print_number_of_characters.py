@@ -5,4 +5,4 @@ fname = input("Input your fullname: ")
 
 # 2. Count the characters in the fullname.
 # 3. Print the length of the characters.
-print(len(fname.replace(" ", "")))
+print(len(fname))
