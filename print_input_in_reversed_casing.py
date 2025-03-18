@@ -2,3 +2,7 @@
 
 # 1. Ask the user to input their full name in incorrect casing.
 fname = input("Input your name in incorrect casing: ")
+
+# 2. Convert the input into it's reverse casing. 
+# 3. Print the reverse casing full name. 
+print(fname.swapcase())
