@@ -4,3 +4,8 @@
 
 fname = input('Enter your full name: ')
 
+# 2. Convert the input into all capital letters.
+# 3. Print the capital lettered input
+
+print(fname.upper())
+
